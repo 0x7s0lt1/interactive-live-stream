@@ -1,0 +1,14 @@
+.emoji{
+    position: absolute;
+    width: 75px;
+    height: 75px;
+}
+
+.screen{
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: transparent;
+}
