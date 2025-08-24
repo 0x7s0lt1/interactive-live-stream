@@ -1,6 +1,8 @@
 ## Interactive Livestream
 This project enables real-time audience interaction on a livestream by allowing viewers to display emojis directly on the stream screen. It is designed to increase viewer engagement by providing a visual way for the audience to react and by allowing them to be part of the stream.
 
+<img src="https://i.imgur.com/Fvw1Z4p.png" alt='idk' />
+
 Viewers visit a public webpage where they can click or tap on a representation of the stream screen. When they place an emoji, it instantly appears on the OBS stream for 15 seconds.
 
 The project is built on three core components that work together:
