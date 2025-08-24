@@ -71,11 +71,11 @@ let App = {
             p: { x, y }
         });
 
-        App.displayEmoi(x, y);
+        App.displayEmoji(x, y);
 
     },
 
-    displayEmoi:(x, y) => {
+    displayEmoji:(x, y) => {
 
         document.getElementById('emoji')?.remove();
         App.ui.screen.innerHTML += `<div class="emoi" id="emoji" style="top:${y}px;left:${x}px;">${App.selectedEmoji}</div>`;
