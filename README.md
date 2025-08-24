@@ -13,3 +13,7 @@ A Node.js server using Socket.IO that acts as the central hub, receiving emoji e
 
 ### StreamElements Widget
 A custom HTML/CSS/JS widget built for StreamElements. When added as a browser source in OBS, it listens for events from the backend to display emojis on screen.
+
+[Emoji Picker](https://github.com/missive/emoji-mart) - 
+[OBS](https://github.com/obsproject/obs-studio) - 
+[StreamElements](https://dev.streamelements.com/docs/api-docs/775038fd4f4a9-stream-elements-custom-widgets)
